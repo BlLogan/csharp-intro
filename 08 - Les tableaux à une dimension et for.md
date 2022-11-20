@@ -511,7 +511,7 @@ public class Program
 ## Exercice 6
 
 Écrire un programme qui crée un tableau de 5 éléments, le remplit aléatoirement de nombres entiers compris entre -100 et 100 et l'affiche.
-Ensuite il demande à l'utilisteur la position d'un élément à supprimer et décale tous les nombres après cette position d'une case vers le début et met 0 dans la dernière case vide. Vous ne devez pas gérer pas les entrées invalides.
+Ensuite il demande à l'utilisateur la position d'un élément à supprimer et décale tous les nombres après cette position d'une case vers le début et met 0 dans la dernière case vide. Vous ne devez pas gérer pas les entrées invalides.
 
 Sorties possibles :
 
