@@ -203,7 +203,7 @@ public class Program
 		tab[2] = tab[0];
 		// on recopie la valeur de tab[1] (donc 15) dans la case d'index 3
 		tab[3] = tab[1];
-		// on fait la somme de la valeur de tab[0] (donc 10) et tab[1] (donc 15), ce qui donne la valuer 25, qu'on va assigner à la case d'index 4
+		// on fait la somme de la valeur de tab[0] (donc 10) et tab[1] (donc 15), ce qui donne la valeur 25, qu'on va assigner à la case d'index 4
 		tab[4] = tab[0] + tab[1];
 		// on met 1 dans la case d'index 5
 		tab[5] = 1;
